@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-10-25-n8n-Discord-기반-GitHub-TIL-자동화-워크플로우](n8n/2026-10-25-n8n-Discord-기반-GitHub-TIL-자동화-워크플로우.md)
+
 - [2026-10-25-n8n-디스코드-AI-에이전트-워크플로우-구축](n8n/2026-10-25-n8n-디스코드-AI-에이전트-워크플로우-구축.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
